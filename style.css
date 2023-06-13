@@ -1,0 +1,16 @@
+body{
+    background-color: darkturquoise;
+    text-align: center;
+    margin: 50px;
+    border: 10px solid lime;
+}
+section{
+    margin: 50px;
+    
+}
+.line{
+    height: 7px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
